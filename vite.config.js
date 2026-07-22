@@ -3,5 +3,5 @@ import react from '@vitejs/plugin-react'
 
 export default defineConfig({
   plugins: [react()],
-base: "/fromis0-react",
+base: "/fromis9-react",
 })
